@@ -28,3 +28,8 @@ figcaption {
   text-align: center;
   font-size: 12px;
 }
+
+#eatured-property p {
+  width: 800px;
+  text-align: center;
+}
