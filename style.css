@@ -41,4 +41,5 @@ figcaption {
   display: block;
   background-color: grey;
   text-align: center;
+  width: 25%;
 }
